@@ -1,0 +1,165 @@
+@media (min-width: 992px) {
+  #Collection {
+    color: white;
+    padding-left: 8px;
+    margin-left: 180px;
+  }
+}
+
+#Collection {
+  color: white;
+  padding-left: 8px;
+  margin-left: 200px;
+}
+
+#NFT {
+  color: var(--bs-body-bg);
+  padding-left: 17px;
+  width: 174px;
+}
+
+#logo {
+  background: url("../../assets/img/ODYSSEY%20COLLECTIONS.png") center / contain no-repeat;
+  width: 177px;
+  height: 58px;
+  position: absolute;
+  left: 71px;
+  top: 29px;
+}
+
+.triangle-1 {
+  width: 39px;
+  height: 31px;
+  left: 115px;
+  position: absolute;
+  top: -2px;
+}
+
+.triangle-2 {
+  width: 39px;
+  height: 31px;
+  left: -39px;
+  position: absolute;
+  top: 30px;
+}
+
+#navcol-1 {
+  margin: 30px;
+  padding-left: 150px;
+  width: 990px;
+  min-height: 0px;
+}
+
+#button1 {
+  color: var(--bs-gray-900);
+  background: #41d3bd;
+  width: 158px;
+  height: 58px;
+  border-radius: 62px;
+  padding-right: 8px;
+}
+
+#BaseBall-Card {
+  position: absolute;
+  width: 730px;
+  height: 630px;
+  left: 463px;
+}
+
+@media (min-width: 1400px) {
+  #BaseBall-Card {
+    position: absolute;
+    width: 936px;
+    height: 830px;
+    left: 980px;
+    top: 120px;
+  }
+}
+
+#cards {
+  max-width: 100%;
+}
+
+.right-button {
+  padding-right: 40px;
+}
+
+#heading1 {
+  width: 512px;
+  font-size: 53px;
+  margin-bottom: 0px;
+  height: 186px;
+  left: 73px;
+}
+
+#heading2 {
+  font-size: 15px;
+  width: 409px;
+  height: 80px;
+  left: 73px;
+  position: absolute;
+}
+
+#heading3 {
+  font-size: 15px;
+  position: absolute;
+  top: 350px;
+  left: 73px;
+}
+
+#left-text {
+  width: 459px;
+  padding: 74px;
+  position: absolute;
+}
+
+.picture {
+  position: relative;
+  margin-right: -12px;
+}
+
+.arrow1 {
+  padding-left: 11px;
+}
+
+#div-bottom {
+}
+
+#bottomDiv {
+  margin-top: 456px;
+  width: 50%;
+  position: absolute;
+}
+
+#poly {
+  position: absolute;
+  left: 332px;
+  top: 9px;
+}
+
+#cirlce {
+  position: absolute;
+  left: 325px;
+  top: 3px;
+}
+
+#twitter {
+  position: absolute;
+  left: 450px;
+  top: 3px;
+}
+
+#discord {
+  position: absolute;
+  left: 510px;
+  top: 1px;
+}
+
+#Nav-NFT {
+  padding-left: 34px;
+}
+
+#Paragraph1 {
+  position: static!important;
+}
+
